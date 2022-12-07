@@ -1,0 +1,38 @@
+/* Created by Kim Jonas Cabugayan */
+
+body {    
+    font-family: sans-serif;
+    color: #fff;
+    line-height: 26px;  
+  }
+  .content {
+    width: 80%;
+    float: left;
+  }
+  .opaq {
+          background-image:url('https://i.ibb.co/QQKZyWv/images-7.jpg');
+      background-size:cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+  img {
+      width:100%;
+  }
+  .project {
+      padding: 5px 5px 10px 5px;
+      border: 1px solid red;
+      margin-bottom:10px;
+      border-radius:10px;
+  }
+  .big-dream {
+      
+      display:block ;
+      margin-top:15px;
+      padding: 5px 5px 20px 5px;
+  }
+  .project-container {
+      display:block ;
+      margin-top:15px ;
+      border-radius:10px;
+      padding: 5px 5px 5px 5px;
+  }
